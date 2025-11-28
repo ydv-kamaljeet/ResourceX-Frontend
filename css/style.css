@@ -8,7 +8,7 @@ body {
   font-family: 'Inter', sans-serif;
   background: #020617; /* deep tech blue */
   color: white;
-  background-image: url("bg5.png"); /* futuristic pattern */
+  background-image: url("../bg5.png"); /* futuristic pattern */
   background-size: cover;
   background-attachment: fixed;
 }

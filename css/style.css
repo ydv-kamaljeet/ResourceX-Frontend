@@ -8,7 +8,7 @@ body {
   font-family: 'Inter', sans-serif;
   background: #020617; /* deep tech blue */
   color: white;
-  background-image: url("https://i.imgur.com/jxWqg7h.png"); /* futuristic pattern */
+  background-image: url("/bg5.png"); /* futuristic pattern */
   background-size: cover;
   background-attachment: fixed;
 }
@@ -30,10 +30,10 @@ body {
    =========================== */
 
 .brand {
-  font-size: 3.5rem;
+  font-size: 5.5rem;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #6af0ff;
+  color: #151111;
   text-shadow:
     0 0 8px #00eaff,
     0 0 16px #00d0ff;
@@ -41,8 +41,12 @@ body {
 
 .subtitle {
   margin-top: -10px;
-  font-size: 1.2rem;
-  color: #b9e9ff;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1b0404;
+  text-shadow:
+    0 0 8px #00ff5e,
+    0 0 16px #ff6600;
 }
 
 /* ===========================

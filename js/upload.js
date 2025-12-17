@@ -1,4 +1,4 @@
-const API_BASE = "resourcex-production.up.railway.app";
+const API_BASE = "https://resourcex-production.up.railway.app";
 
 document.getElementById("upload-form").addEventListener("submit", async (e) => {
   e.preventDefault();
